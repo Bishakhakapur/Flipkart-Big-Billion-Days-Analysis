@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flipkart_logo.png/320px-Flipkart_logo.png" width="200" alt="Flipkart Logo"/>
+  <img src="https://companieslogo.com/img/orig/FLIPKART.BO_BIG.D-bb018d04.png" width="220" alt="Flipkart Logo"/>
 </p>
 
 <h1 align="center">📊 Flipkart Big Billion Days (BBD) Business Analysis</h1>  
