@@ -7,6 +7,11 @@
 
 ---
 
+Link of BBD Presentation - https://drive.google.com/file/d/13Wz1ywo_ypawITPvDconrVug22KWrzpm/view?usp=drivesdk
+
+---
+
+
 ## 🔎 Project Overview
 This project analyzes Flipkart’s **Big Billion Days (BBD)** – one of the largest festive sales in India.  
 The goal was to uncover **sales performance, customer behavior, discount impact, and category growth** using **synthetic data (5,000+ transactions)**.
